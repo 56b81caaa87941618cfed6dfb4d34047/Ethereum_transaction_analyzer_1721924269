@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the sidebar to be always visible or to appear dynamically as a slide-out on certain user actions?\", \"option1\": \"Always visible\", \"option2\": \"Slide-out on user action\"}, {\"question 2\": \"Should the sidebar have icons along with the text for each navigation link, or would you prefer text-only links?\", \"option1\": \"Icons with text\", \"option2\": \"Text-only links\"}], \"input_token_count\": 266, \"output_token_count\": 101, \"time_taken\": \"0:00:03.441518\"}",
         "timestamp": "25072024161830",
         "message_id": "guest25072024161826"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Integration of a responsive top navigation bar for larger screens that collapses into a hamburger menu on smaller devices\", \"checked\": true}, {\"feature\": \"Addition of a footer section with quick links and social media icons\", \"checked\": true}, {\"feature\": \"Implementation of a 'Latest Transactions' page, accessible from the sidebar for real-time monitoring\", \"checked\": false}, {\"feature\": \"Creation of an FAQ section in the about page for common queries regarding Ethereum transactions\", \"checked\": false}, {\"feature\": \"Inclusion of a contact form with captcha verification to prevent spam in the contact page\", \"checked\": true}, {\"feature\": \"Addition of a theme toggle button on the sidebar for dark/light mode\", \"checked\": false}], \"input_token_count\": 220, \"output_token_count\": 155, \"time_taken\": \"0:00:07.269979\"}",
+        "timestamp": "25072024161834",
+        "message_id": "guest25072024161826"
     }
 ]
