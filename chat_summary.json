@@ -18,5 +18,11 @@
         "content": "Working on adding a sidebar with home, about and contact.",
         "timestamp": "25072024161827",
         "message_id": "guest25072024161826"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the sidebar to be always visible or to appear dynamically as a slide-out on certain user actions?\", \"option1\": \"Always visible\", \"option2\": \"Slide-out on user action\"}, {\"question 2\": \"Should the sidebar have icons along with the text for each navigation link, or would you prefer text-only links?\", \"option1\": \"Icons with text\", \"option2\": \"Text-only links\"}], \"input_token_count\": 266, \"output_token_count\": 101, \"time_taken\": \"0:00:03.441518\"}",
+        "timestamp": "25072024161830",
+        "message_id": "guest25072024161826"
     }
 ]
