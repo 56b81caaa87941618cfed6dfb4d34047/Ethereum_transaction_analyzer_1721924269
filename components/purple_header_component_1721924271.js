@@ -54,7 +54,21 @@ Vue.component("purple_header_component_1721924271", {
     
             </div>
         </div>
-    </header>`,
+    </header>
+    <div class="flex">
+        <aside class="w-64 h-screen bg-gray-100 p-6">
+            <nav>
+                <ul>
+                    <li class="mb-4"><a href="Home.html" class="text-gray-700 hover:text-gray-900">Home</a></li>
+                    <li class="mb-4"><a href="About.html" class="text-gray-700 hover:text-gray-900">About</a></li>
+                    <li class="mb-4"><a href="Contact.html" class="text-gray-700 hover:text-gray-900">Contact</a></li>
+                </ul>
+            </nav>
+        </aside>
+        <main class="flex-1">
+            <!-- Main content goes here -->
+        </main>
+    </div>
         data() {
             return {
                 expanded: false, 
